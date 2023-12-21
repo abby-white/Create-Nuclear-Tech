@@ -35,6 +35,7 @@ public class CreateNuclear {
         NuclearBlockEntities.init();
         NuclearPartials.init();
         CommonEvent.init();
+
         MinecraftForge.EVENT_BUS.register(this);
     }
 
