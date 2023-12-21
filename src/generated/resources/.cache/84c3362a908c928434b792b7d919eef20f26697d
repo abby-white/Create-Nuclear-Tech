@@ -1,0 +1,13 @@
+// 1.20.1	2023-12-08T12:38:46.7465942	Registrate Provider for create_nuclear [Recipes, Advancements, Loot Tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+9232da26623c1f3af45afc27e2ca9261b6a3c196 assets/create_nuclear/blockstates/radioactive_sponge.json
+080258828b3782d40189ae32864e9ca1cbad7ce1 assets/create_nuclear/blockstates/uranium_block.json
+66f8ebc520f2af027dc435d2877baaddc75f0eb0 assets/create_nuclear/lang/en_ud.json
+45167d2e80ebe7763834971aca163ed862c21c37 assets/create_nuclear/lang/en_us.json
+378e88f72d458e1b35dbe227eb1d1086c0e91f1a assets/create_nuclear/models/block/radioactive_sponge.json
+0f79f998e2924d2b6116523fdc29d02b483568d1 assets/create_nuclear/models/block/uranium_block.json
+dca4e8d24e6611616346ae5437bbec41ef548618 assets/create_nuclear/models/item/geiger_counter.json
+9720da616422d54b10d773136319e62a59004d3a assets/create_nuclear/models/item/radioactive_sponge.json
+96b70152956d51c66fbf967d5d337130cb063e3b assets/create_nuclear/models/item/uranium_block.json
+b52646d6fc05e7789b4aa1ee5a56ff78388f02d9 assets/create_nuclear/models/item/uranium_ingot.json
+d8d0e14fe1c2116d406dec8c76df8face2ac6803 data/create_nuclear/loot_tables/blocks/radioactive_sponge.json
+5c42f92a220c8e722fae1a121a6a55fb0e9992f9 data/create_nuclear/loot_tables/blocks/uranium_block.json

@@ -1,0 +1,7 @@
+{
+  "block.create_nuclear.radioactive_sponge": "Radioactive Sponge",
+  "block.create_nuclear.uranium_block": "Uranium Block",
+  "item.create_nuclear.geiger_counter": "Geiger Counter",
+  "item.create_nuclear.uranium_ingot": "Uranium Ingot",
+  "itemGroup.create_nuclear.base": "Create: Nuclear Tech"
+}
