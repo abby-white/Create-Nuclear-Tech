@@ -34,6 +34,7 @@ public class CreateNuclear {
         NuclearBlocks.init();
         NuclearBlockEntities.init();
         NuclearPartials.init();
+        NuclearFluids.init();
         CommonEvent.init();
 
         MinecraftForge.EVENT_BUS.register(this);

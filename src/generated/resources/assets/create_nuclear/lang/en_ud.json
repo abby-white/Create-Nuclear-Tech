@@ -1,7 +1,10 @@
 {
   "block.create_nuclear.radioactive_sponge": "ǝbuodS ǝʌıʇɔɐoıpɐᴚ",
+  "block.create_nuclear.steam": "ɯɐǝʇS",
   "block.create_nuclear.uranium_block": "ʞɔoןᗺ ɯnıuɐɹ∩",
+  "fluid.create_nuclear.steam": "ɯɐǝʇS",
   "item.create_nuclear.geiger_counter": "ɹǝʇunoƆ ɹǝbıǝ⅁",
+  "item.create_nuclear.steam_bucket": "ʇǝʞɔnᗺ ɯɐǝʇS",
   "item.create_nuclear.uranium_ingot": "ʇobuI ɯnıuɐɹ∩",
   "itemGroup.create_nuclear.base": "ɥɔǝ⟘ ɹɐǝןɔnN :ǝʇɐǝɹƆ"
 }

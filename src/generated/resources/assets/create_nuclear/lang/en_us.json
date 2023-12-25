@@ -1,7 +1,10 @@
 {
   "block.create_nuclear.radioactive_sponge": "Radioactive Sponge",
+  "block.create_nuclear.steam": "Steam",
   "block.create_nuclear.uranium_block": "Uranium Block",
+  "fluid.create_nuclear.steam": "Steam",
   "item.create_nuclear.geiger_counter": "Geiger Counter",
+  "item.create_nuclear.steam_bucket": "Steam Bucket",
   "item.create_nuclear.uranium_ingot": "Uranium Ingot",
   "itemGroup.create_nuclear.base": "Create: Nuclear Tech"
 }
