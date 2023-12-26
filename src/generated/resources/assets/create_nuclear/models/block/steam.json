@@ -1,5 +1,5 @@
 {
   "textures": {
-    "particle": "create_nuclear:fluid/steam_still"
+    "particle": "create_nuclear:block/water_still"
   }
 }
